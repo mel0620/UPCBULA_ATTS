@@ -43,3 +43,6 @@ E:\LENOVO\DOCUMENTS\Visual Studio 2010\Projects\frmMain\UPCBulaATS\bin\Debug\ite
 E:\LENOVO\DOCUMENTS\Visual Studio 2010\Projects\frmMain\UPCBulaATS\bin\Debug\itextsharp.xtra.dll
 E:\LENOVO\DOCUMENTS\Visual Studio 2010\Projects\frmMain\UPCBulaATS\bin\Debug\MySql.Data.dll
 E:\LENOVO\DOCUMENTS\Visual Studio 2010\Projects\frmMain\UPCBulaATS\bin\Debug\itextsharp.xml
+C:\Users\romme\OneDrive\Documents\Visual Studio 2010\Projects\frmMain\UPCBulaATS\bin\Debug\UPCBulaATS.exe.config
+C:\Users\romme\OneDrive\Documents\Visual Studio 2010\Projects\frmMain\UPCBulaATS\obj\x86\Debug\UPCBulaATS.exe
+C:\Users\romme\OneDrive\Documents\Visual Studio 2010\Projects\frmMain\UPCBulaATS\obj\x86\Debug\UPCBulaATS.pdb
